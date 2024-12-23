@@ -109,8 +109,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TechieSD100/count.svg?"  />
-</div>
+
+![snake gif](https://github.com/TechieSD100/TechieSD100/blob/output/github-contribution-grid-snake.gif)
 
 ###
