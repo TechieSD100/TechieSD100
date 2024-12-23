@@ -105,7 +105,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TechieSD100/TechieSD100/output/snake.svg" alt="Snake animation" />
+<img src="github-snake.svg" alt="Snake animation" />
 
 ###
 
