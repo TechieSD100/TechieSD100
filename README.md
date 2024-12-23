@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sayan Das</h1>
 <h3 align="center">A passionate CSE student from India with interests in Full Stack Development & Machine Learning.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techiesd100" alt="techiesd100" /></a> </p>
+
 - 🌱 I’m currently learning **React Native & DevOps.**
+
+- 📫 How to reach me **code.techiesd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
