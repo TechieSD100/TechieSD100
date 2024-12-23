@@ -105,11 +105,12 @@
 
 <br clear="both">
 
-<img src="github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TechieSD100/TechieSD100/output/snake.svg" alt="Snake animation" />
 
 ###
 
-
-![snake gif](https://github.com/TechieSD100/TechieSD100/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TechieSD100/count.svg?"  />
+</div>
 
 ###
